@@ -1,0 +1,259 @@
+
+header{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+header nav {
+    margin-bottom:150px
+}
+header nav ul li{
+    padding-left: 60px;
+    
+
+}
+header nav ul li a{
+    font-size:20px;
+    color:#fff!important;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    transition: all 0.5s;
+}
+header nav ul li a:hover{
+    color:#fbc02d!important;
+}
+/* about part start */
+
+.about .about-part h2{
+    font-size: 50px;
+    font-family: 'Nunito', sans-serif;
+    color:#fbc02d;
+    text-align: center;
+    margin-bottom:50px
+}
+.about .about-part p{
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    color:#fff;
+    text-align: center;
+    padding-bottom: 150px;
+   
+}
+
+/* about part end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog{
+    background-color: #fff;
+
+}
+.blog .blog-part-1 img.photo-1{
+        background-color: #d963d8;
+        border-radius: 20x;
+}
+.blog .text-part-1 span{
+    background-color: #fbc02d;
+    width: 50%;
+    padding:10px;
+    border-radius: 10px;
+    margin-bottom: 80px;
+    position: relative;
+    text-align: center;
+    display: block;
+   
+}
+.blog .text-part-1 span::after{
+    content: "";
+    height: 3px;
+    width:100%;
+    background-color: #b7b7b7;
+    top:50%;
+    left:100%;
+    position: absolute;
+}
+.blog .text-part-1 h3{
+    font-size:30px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    color:#1d59bf;
+    margin-bottom: 40px;
+}
+.blog .text-part-1 p{
+    font-size:20px;
+    font-family: 'Nunito', sans-serif;
+    line-height: 24px;
+}
+
+
+
+
+/*part -3 ------------------------------------------------ */
+.blog .blog-part-1 img.photo-3{
+    background-color: #6376d9;
+    border-radius: 20px;
+}
+.blog .blog-part-1 img.photo-2{
+    background-color: #8a8a8a;
+    border-radius: 20px;
+}
+
+
+
+.blog .blog-part-1 .photo-1,.blog .blog-part-1 .photo-2,.blog .blog-part-1 .photo-3{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* personal link start */ 
+
+
+
+
+
+.personal-link-part{
+    background-color: #003ca0;
+    position: relative;
+   padding-bottom:50px; 
+  
+}
+
+.personal-link-part .person-about h3{
+    font-size:20px;
+    color:#fff;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding-top:50px;
+}
+.personal-link-part .person-about h2{
+    font-size:25px;
+    color:#fff;
+    font-weight: 400;
+    text-transform:capitalize;
+    margin-bottom: 80px;
+}
+.personal-link-part .person-about li{
+    font-size:16px;
+    color:#fff;
+    font-weight: 400;
+    text-transform: capitalize;
+    list-style-type:none;
+    padding-bottom: 20px;
+}
+
+.personal-link-part .person-link img{
+    width:100px;
+    height:100px;
+    border:10px solid #fbc02d;
+    border-radius: 50%;
+    position:absolute;
+    top:-107px;
+    left:157px;
+  
+}
+
+.personal-link-part .person-link h3{
+    font-size:25px;
+    color:#fff;
+    font-weight: 400;
+    text-transform:uppercase;
+    margin-top: 0;
+    padding-top:50px;
+}
+.personal-link-part .person-link h2{
+    font-size:25px;
+    color:#fff;
+    font-weight: 400;
+    text-transform:capitalize;
+    margin-bottom: 70px;
+
+}
+.personal-link-part .person-link P{
+    font-size: 20px;
+    color:rgba(255, 255, 255, 0.5);
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+
+.personal-link-part .person-link a i{
+    font-size:50px;
+    padding-right: 30px;
+    color:#6da5ff;
+}
+
+/* personal link end */
+
+
+
+
+
+/* footer section start */
+
+
+
+
+
+.footer-section{
+    background-color: #002b71;
+   
+}
+.footer-section .copyright-part-1 span{
+    color:#fff;
+    font-size:16px;
+    text-transform: capitalize;
+    padding-right: 50px;
+}
+.footer-section .copyright-part-2 span{
+    padding-left: 205px;
+    color:#fff;
+    font-size:16px;
+    text-transform: capitalize;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer section end */
+
+
+
+
+
+
+
